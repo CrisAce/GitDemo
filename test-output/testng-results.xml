@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="85" started-at="2019-04-25T08:01:59Z" finished-at="2019-04-25T08:01:59Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="85" started-at="2019-04-25T08:01:59Z" finished-at="2019-04-25T08:01:59Z">
+      <class name="ro.mysite.SeleniumTest">
+        <test-method status="PASS" signature="browserAutomation()[pri:0, instance:ro.mysite.SeleniumTest@3abbfa04]" name="browserAutomation" duration-ms="5" started-at="2019-04-25T08:01:59Z" finished-at="2019-04-25T08:01:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+        <test-method status="PASS" signature="elementsUI()[pri:0, instance:ro.mysite.SeleniumTest@3abbfa04]" name="elementsUI" duration-ms="0" started-at="2019-04-25T08:01:59Z" finished-at="2019-04-25T08:01:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUI -->
+      </class> <!-- ro.mysite.SeleniumTest -->
+      <class name="ro.mysite.AppiumTest">
+        <test-method status="PASS" signature="nativeAppAndroid()[pri:0, instance:ro.mysite.AppiumTest@239963d8]" name="nativeAppAndroid" duration-ms="10" started-at="2019-04-25T08:01:59Z" finished-at="2019-04-25T08:01:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeAppAndroid -->
+        <test-method status="PASS" signature="nativeAppIos()[pri:0, instance:ro.mysite.AppiumTest@239963d8]" name="nativeAppIos" duration-ms="0" started-at="2019-04-25T08:01:59Z" finished-at="2019-04-25T08:01:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeAppIos -->
+      </class> <!-- ro.mysite.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
